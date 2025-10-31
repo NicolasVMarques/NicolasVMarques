@@ -1,7 +1,11 @@
 ### 👨🏽‍💻 Nícolas Marques
 
-
-![Nícolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasVMarques&show_icons=true&theme=dark) 
+<a href="https://github.com/NicolasVMarques/github-readme-stats">
+  <img height=176cm align="center" src="https://github-readme-stats.vercel.app/api?username=NicolasVMarques&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/NicolasVMarques/convoychat">
+    <img height=176cm align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasVMarques&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+</a>
 
 ## Linguagens e Tecnologias
 
